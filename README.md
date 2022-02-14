@@ -1,7 +1,7 @@
 # Business-Card App
 
 
-Projeyi de şuradan inceleyebilirsiniz: https://kartvizit-app.netlify.app/
+You can view the project here: https://kartvizit-app.netlify.app/
 
 ----------------------------
 
