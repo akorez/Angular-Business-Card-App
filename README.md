@@ -1,10 +1,5 @@
 # Business-Card App
 
-
-You can view the project here: https://kartvizit-app.netlify.app/
-
-----------------------------
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
 
 ## Development server
